@@ -18,6 +18,16 @@
       }
     },
     {
+      "displayName": "Iveco",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Iveco",
+        "brand:wikidata": "Q29913",
+        "name": "Iveco",
+        "shop": "truck"
+      }
+    },
+    {
       "displayName": "Volvo Trucks",
       "locationSet": {"include": ["001"]},
       "tags": {
