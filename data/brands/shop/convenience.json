@@ -5751,7 +5751,10 @@
       "locationSet": {"include": ["ru"]},
       "tags": {
         "brand": "Авокадо",
+        "brand:wikidata: "Q126134205",
+        "brand:en": "Avocado",
         "name": "Авокадо",
+        "name:en": "Avocado",
         "shop": "convenience"
       }
     },
