@@ -21,6 +21,18 @@
       }
     },
     {
+      "displayName": "Test",
+      "id": "bluecrossrehomingcentre-ae7821",
+      "locationSet": {"include": ["gb"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "amenity": "animal_shelter",
+        "brand": "Blue Cross",
+        "brand:wikidata": "Q3520039",
+        "name": "Blue Cross Rehoming Centre"
+      }
+    },
+    {
       "displayName": "Société Protectrice des Animaux (SPA)",
       "id": "spa-89458d",
       "locationSet": {"include": ["fr"]},
